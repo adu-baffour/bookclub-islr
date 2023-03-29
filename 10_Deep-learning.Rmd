@@ -37,7 +37,7 @@ to obtain an output layer which is a **linear model** that uses these activation
 
 
 $$f(X)=\beta_0+\sum_{k=1}^K{\beta_kA_k}$$
-aech $A_k$ is a different transformation of $h_k(X)$
+each $A_k$ is a different transformation of $h_k(X)$
 
 $\beta_0,...,B_K$ and $w_{1,0},...,w_{K,p}$ need to be estimated from data.
 
