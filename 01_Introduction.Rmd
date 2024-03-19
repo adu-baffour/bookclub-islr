@@ -164,7 +164,7 @@ potential improvements over standard linear regression
 ## Some examples of the problems addressed with statistical analysis
 
 - Identify the risk factors for some type of cancers
-- Predict whether someone will have a hearth attack on the basis of demographic, diet, and clinical measurements
+- Predict whether someone will have a heart attack on the basis of demographic, diet, and clinical measurements
 - Email spam detection
 - Classify a tissue sample into one of several cancer classes, based on a gene expression profile
 - Establish the relationship between salary and demographic variables in population survey data
